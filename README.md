@@ -1,4 +1,6 @@
-# Papir
+# 🚾 Papir 🚾
+![image](https://github.com/user-attachments/assets/9d92ff39-3dd1-4939-977e-b89b058c1d89)
+
 Playwriting as general-purpose UI/UX for multi-agent AI environments, contrary to chat interfaces.
 
 Papir is a Svelte implementation of a dramaturgy-inspired design system that reimagines chat interfaces as plays (standard screenplay formatting, in particular.) Rather than extending chat interfaces with new primitives, such as [artifacts][1], Papir starts from the inherent expressiveness of dramatic writing.
